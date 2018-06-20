@@ -1,13 +1,13 @@
 # Free Software Melbourne
-#### 15th of February 2018
+#### 21st of June 2018
 <img src=slides/img/FSM_logo.png width="20%">
 
 
-## Tatiana Lenz:
+## 2018
 
-### Rendering PDFs into text (Code for Victoria II)
+### Winter Games Night
 
-##### and our usual Gnews
+##### and the usual Gnews
 
 <hr />
 
