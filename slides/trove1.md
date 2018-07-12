@@ -1,39 +1,47 @@
 
-## What is Trove? and other important questions
+## What is GLAM? and What is Trove?
 <hr />
 
-<div class="fragment highlight-current-blue">
-What is GLAM? - GLAM is an acronym for "galleries, libraries, archives, and museums"
-GLAMs preserve and make accessible primary sources valuable for researchers
-</div>
+##### What is GLAM?
+- GLAM is an acronym for "galleries, libraries, archives, and museums"
+- GLAMs preserve and make accessible primary sources valuable for researchers
 <br />
-<div class="fragment highlight-current-blue">
-What is Trove? - "Trove is a Library Database Aggregator"
-launched in August 2008
-"Find and Get" functions (e.g. viewing digitally, borrowing, buying, copying)
-The service is built using a variety of open source software.[40][41]
-</div>
+
+###### What is Trove?
+- "Trove is a Library Database Aggregator"
+- Launched in August 2008
+- "Find and Get" functions (e.g. viewing digitally, borrowing, buying, copying)
+- The service is built using a variety of open source software.[40][41]
 <br />
-<div class="fragment highlight-current-blue">
-Whats in there?
-records held in collection databases,[2] or in projects such as Picture Australia, Music Australia, the Register of Australian Archives and Manuscripts, Australia Dancing, Australian Research Online and the PANDORA web archive
-</div>
+
+---
+
+## So what is in Trove?
+
+Kinds of records held in collection databases such as:
+- Libraries Australia
+- Picture Australia
+- Music Australia
+- Register of Australian Archives and Manuscripts
+- Australia Dancing
+- Australian Research Online
+- PANDORA & Australian Government Web Archive
+- Australian Dictionary of Biography
 
 ---
 
 ## Record Types (aka Zones)
 <hr />
 
-
-- Books: collective catalogues of institutions in Libraries Australia using the Australian National Bibliographic Database
+- Books: collective catalogues of Libraries Australia using the National Bibliographic Database
 - Diaries
-- People: biographical information and other resources about associated people and organisations including the Australian Dictionary of Biography
+- People: biographical information about people and organisations
 - Journals: academic periodicals.
 - Maps
-- Music, sound and videos: digitised historic sheet music and audio recordings from the "Music Australia" website and transcripts from many Radio National programs
+- Music, sound and videos: sheet music, audio recordings and transcripts from many Radio National programs
 - Newspapers: digitised historic newspapers from the "Australian Newspapers" website
 - Pictures: digitised photographs, drawings, posters, postcards from the previous "Pictures Australia" website
-- Websites: the PANDORA web-archiving service, which itself includes the "Australian Government Web Archive"
+- Websites: the PANDORA web-archiving service
 - Government Gazettes: official publications written notifying the public of government business
 - Lists: allows users of to make their own compilations of items found in Trove
 
@@ -60,7 +68,7 @@ records held in collection databases,[2] or in projects such as Picture Australi
 - Good to go
 - General Guide: [http://help.nla.gov.au/trove/using-trove](http://help.nla.gov.au/trove/using-trove)
 
----
+===
 
 ## User Lists and Comments
 - User Lists
@@ -69,7 +77,7 @@ records held in collection databases,[2] or in projects such as Picture Australi
   - Example: [https://trove.nla.gov.au/list?id=119947](https://trove.nla.gov.au/list?id=119947)
 
 - Comments
-- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
+  - Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
 
 ---
 
@@ -89,7 +97,7 @@ records held in collection databases,[2] or in projects such as Picture Australi
 - Relatively new feature
 - Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
 
----
+===
 
 ## Other stuff
 <hr />
@@ -108,7 +116,7 @@ records held in collection databases,[2] or in projects such as Picture Australi
 
 ---
 
-## Lets do it!
+## Questions or Comments?
 <hr />
 
 Trove: [https://trove.nla.gov.au](https://trove.nla.gov.au)
