@@ -5,7 +5,7 @@
 
 ## Contribute to Trove
 
-### and the usual Gnews
+### and the (not so) usual Gnews
 
 <hr />
 
