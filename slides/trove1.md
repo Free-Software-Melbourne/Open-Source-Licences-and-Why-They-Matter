@@ -25,8 +25,8 @@ Kinds of records held in collection databases such as:
 - Register of Australian Archives and Manuscripts
 - Australia Dancing
 - Australian Research Online
-- PANDORA & Australian Government Web Archive
 - Australian Dictionary of Biography
+- <span class="fragment highlight-current-red">PANDORA & Australian Government Web Archive</span>
 
 ---
 
@@ -84,18 +84,18 @@ Kinds of records held in collection databases such as:
 ## Transcripts and comments
 <hr />
 
-- Link: [https://trove.nla.gov.au/article/result?q=](https://trove.nla.gov.au/article/result?q=)
 - Guide: [http://help.nla.gov.au/trove/digitised-newspapers/text-correction-guidelines](http://help.nla.gov.au/trove/digitised-newspapers/text-correction-guidelines)
+- Link: [https://trove.nla.gov.au/article/result?q=](https://trove.nla.gov.au/article/result?q=)
 
 ---
 
 ## Tags
 <hr />
 
+- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
+- Relatively new feature
 - An easy way to contribute to the picture archives
 - Link: https://trove.nla.gov.au/picture/result?q
-- Relatively new feature
-- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
 
 ===
 
