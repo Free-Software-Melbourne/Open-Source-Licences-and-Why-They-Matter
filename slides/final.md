@@ -13,6 +13,7 @@ There are plenty of legal concerns we haven't covered today, amongst them are Pa
 
 or maybe you just find it interesting and want to learn more
 
+---
 
 ### More Information and Discussion
 

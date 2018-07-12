@@ -18,8 +18,7 @@ Software licensing is a complex topic and an important part of the Intellectual 
 
 In this discussion group we'll explain the fundamentals of software licensing and why it exists. We'll cover the major families of open source licences like the GPL, MIT and Creative Commons. We will also explain the characteristics of the major families of software licensing and discuss trends in software licensing. We will take any questions or comments about open source software and licensing. If we have time we'll cover a few practical examples of what a software licence enables developers and users to do with a pice of work.
 
-
-
+---
 
 ### What is Copyright?
 
@@ -36,6 +35,7 @@ usually only for a limited time and varies by jurisdiction
 
 automatic assignment
 
+---
 
 ### What is a License?
 
@@ -50,6 +50,7 @@ legal terms
 
 selectively grants rights to users
 
+---
 
 ### What is the Difference?
 
@@ -64,6 +65,7 @@ licenses use copyright
 
 licences spread rights to users
 
+---
 
 ### Why License?
 
