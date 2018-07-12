@@ -2,14 +2,14 @@
 
 
 
-# Presentation and Gnews
+# Contribute to Trove
 
-Presentation slides and Gnews for Free Software Melbourne for February 2018
+Presentation slides for Free Software Melbourne presentation on Trove by the NLA.
 
 
 # To View
 
-[gh-pages](https://free-software-melbourne.github.io/Gnews-2018-June/)
+[gh-pages](https://free-software-melbourne.github.io/Contribute-to-Trove/)
 
 
 # To Run

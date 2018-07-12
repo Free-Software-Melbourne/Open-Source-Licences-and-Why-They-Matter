@@ -1,13 +1,11 @@
 # Free Software Melbourne
-#### 21st of June 2018
+#### 19th of July 2018
 <img src=slides/img/FSM_logo.png width="20%">
 
 
-## 2018
+## Contribute to Trove
 
-### Winter Games Night
-
-##### and the usual Gnews
+### and the usual Gnews
 
 <hr />
 
@@ -18,6 +16,6 @@
 <img src=slides/img/stumbles_small.jpg height="80px">
 
 Note:
+welcome for July
 EW space
-
 coc
