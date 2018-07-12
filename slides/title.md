@@ -1,9 +1,10 @@
-## Software Licencing
+## Open Source licences
 <hr />
-### Copyright Matters!
+### ... and why do they matter
 <img src=slides/img/FSM_logo.png width="40%">
 
-##### Designing Open Democracy 2018
+##### Strengthening the New Economy for the Common Good
+###### October 2018
 
 Note:
 Title screen
