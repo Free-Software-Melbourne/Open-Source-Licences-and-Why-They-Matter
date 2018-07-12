@@ -1,19 +1,21 @@
 # Free Software Melbourne
 #### 19th of July 2018
-<img src=slides/img/FSM_logo.png width="20%">
 
+<hr />
+
+<img src=slides/img/FSM_logo.png width="20%">
 
 ## Contribute to Trove
 
-### and the (not so) usual Gnews
+### and the Gnews for July
 
 <hr />
 
 ##### Sponsors:
 
-<img src=slides/img/EW.png height="80px">
-<img src=slides/img/AdamBolte.png height="80px">
-<img src=slides/img/stumbles_small.jpg height="80px">
+<img src=slides/img/EW.png height="120px">
+<img src=slides/img/AdamBolte.png height="120px">
+<img src=slides/img/stumbles_small.jpg height="120px">
 
 Note:
 welcome for July

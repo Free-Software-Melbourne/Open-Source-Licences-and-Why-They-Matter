@@ -1,110 +1,114 @@
 
-## What is Trove?
+## What is Trove? and other important questions
 <hr />
 
-<div class="fragment">
-"Installable catalogue of FOSS applications for the Android platform"
+<div class="fragment highlight-current-blue">
+What is GLAM? - GLAM is an acronym for "galleries, libraries, archives, and museums"
+GLAMs preserve and make accessible primary sources valuable for researchers
 </div>
 <br />
-<div class="fragment">
-"It's an alternative app store"
+<div class="fragment highlight-current-blue">
+What is Trove? - "Trove is a Library Database Aggregator"
+launched in August 2008
+"Find and Get" functions (e.g. viewing digitally, borrowing, buying, copying)
+The service is built using a variety of open source software.[40][41]
 </div>
 <br />
-<div class="fragment">
-"ok, ok... it's kinda like the G**gle Play store"
+<div class="fragment highlight-current-blue">
+Whats in there?
+records held in collection databases,[2] or in projects such as Picture Australia, Music Australia, the Register of Australian Archives and Manuscripts, Australia Dancing, Australian Research Online and the PANDORA web archive
 </div>
 
 ---
 
-## A little bit of history
+## Record Types (aka Zones)
 <hr />
 
-- The main repository contains only apps that are <span class="fragment highlight-red">free and open-source</span> software
-- Apps can be browsed and installed <span class="fragment highlight-red">without registration</span>
-- F-Droid links to the <span class="fragment highlight-red">source code</span> of applications it hosts
-- The source code of the software <span class="fragment highlight-red">running the F-Droid server</span> is avaliable
-- Designed to be resilient against <span class="fragment highlight-red">surveillance, censorship, and unreliable connections</span>
-- Supports HTTP proxies and repos hosted on <span class="fragment highlight-red">Tor hidden services</span>
-- Client devices can function as <span class="fragment highlight-red">impromptu "app stores"</span> distributing apps to other devices
-- GNU Affero <span class="fragment highlight-red">General Public License</span>  version 3 or later (AGPLv3+)
+
+- Books: collective catalogues of institutions in Libraries Australia using the Australian National Bibliographic Database
+- Diaries
+- People: biographical information and other resources about associated people and organisations including the Australian Dictionary of Biography
+- Journals: academic periodicals.
+- Maps
+- Music, sound and videos: digitised historic sheet music and audio recordings from the "Music Australia" website and transcripts from many Radio National programs
+- Newspapers: digitised historic newspapers from the "Australian Newspapers" website
+- Pictures: digitised photographs, drawings, posters, postcards from the previous "Pictures Australia" website
+- Websites: the PANDORA web-archiving service, which itself includes the "Australian Government Web Archive"
+- Government Gazettes: official publications written notifying the public of government business
+- Lists: allows users of to make their own compilations of items found in Trove
+
 
 ---
 
 ## What can we do?
 <hr />
 
-F-Droid warns of behaviour that may be undesirable
+- Setting up an account
+- User lists and useful comments
+- Review transcripts and scanned documents
+- Tagging Images
+- APIs and Images
 
-- Ads – contains advertising
-- Tracking – tracks or reports activity, without your permission, or by default
-- <span class="fragment highlight-current-blue">Non-free Network Services – promotes or depends entirely on a non-Free network service</span>
-- Non free Addons – promotes other non-Free apps or plugins
-- <span class="fragment highlight-current-blue">Non free Dependencies – depends on another non-Free application for its operation</span>
-- <span class="fragment highlight-current-blue">Upstream Non-free – upstream source is non-free - F-Droid version is patched to fix this</span>
-- Non-Free Assets – contains non-free assets
-- Known Vulnerability – APK has a known security vulnerability
-- Disabled Algorithm – APK was signed using a disabled algorithm
+---
+
+## Account Setup
+<hr />
+
+- Link: [https://trove.nla.gov.au/signup](https://trove.nla.gov.au/signup)
+- Username, password, email and captcha
+- Confirm email
+- Good to go
+- General Guide: [http://help.nla.gov.au/trove/using-trove](http://help.nla.gov.au/trove/using-trove)
+
+---
+
+## User Lists and Comments
+- User Lists
+  - Newest feature
+  - Link: [http://help.nla.gov.au/trove/using-trove/creating-contributing/lists](http://help.nla.gov.au/trove/using-trove/creating-contributing/lists)
+  - Example: [https://trove.nla.gov.au/list?id=119947](https://trove.nla.gov.au/list?id=119947)
+
+- Comments
+- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
 
 ---
 
 ## Transcripts and comments
 <hr />
 
-- <span class="fragment highlight-red">More than 2,300 apps compared to over 1.43 million on other app stores we won't mention</span>
-- <span class="fragment highlight-red">Researcher and developer Moxie Marlinspike criticised F-Droid for out-of-date versions</span>
-- <span class="fragment highlight-green">The client does not show the number of installs/downloads for each app</span>
-- <span class="fragment highlight-green">No formal app review process*</span>
-- <span class="fragment highlight-green">Uses its own keys to sign packages, so apps from another source must be reinstalled</span>
+- Link: [https://trove.nla.gov.au/article/result?q=](https://trove.nla.gov.au/article/result?q=)
+- Guide: [http://help.nla.gov.au/trove/digitised-newspapers/text-correction-guidelines](http://help.nla.gov.au/trove/digitised-newspapers/text-correction-guidelines)
 
 ---
 
-## Tags and comments
+## Tags
 <hr />
 
-<span class="fragment">
-"Applications distributed via the G**gle Play store are signed by the developer of the application, and the Android operating system checks that updates are signed with the same key, preventing others from distributing updates that the developer themselves did not sign"
-</span>
-<br />
-
-<span class="fragment">
-"When F-Droid signs the binaries, the application user needs to trust F-Droid rather than the developer of the application, that no malicious update to an application is distributed"
-</span>
+- An easy way to contribute to the picture archives
+- Link: https://trove.nla.gov.au/picture/result?q
+- Relatively new feature
+- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
 
 ---
 
 ## Other stuff
 <hr />
 
-- Replicant
-  - A fully free software Android operating system
-  - Uses F-Droid as its default and recommended app store
+- APIs
+ - Overview: [http://help.nla.gov.au/trove/building-with-trove/api](http://help.nla.gov.au/trove/building-with-trove/api)
+ - Guide: [http://help.nla.gov.au/trove/building-with-trove/api-technical-guide](http://help.nla.gov.au/trove/building-with-trove/api-technical-guide)
+ - Search URLs: [https://trove.nla.gov.au/general/searchURLs](https://trove.nla.gov.au/general/searchURLs)
+ - Gallery: [http://help.nla.gov.au/trove/building-with-trove/application-gallery](http://help.nla.gov.au/trove/building-with-trove/application-gallery)
 
-- CopperheadOS
-  - Partnered with The Guardian Project
-  - A solution that can be verifiably trusted from the operating system through the network and network services all the way up to the app stores and apps themselves
-
-- Not on Play Store
-  - Non-compete clause of the G**gle Play Developer Distribution Agreement
-  - Non-Free software platform
-
+- Images
+  - Link: [https://trove.nla.gov.au/recentFlickrPhotos](https://trove.nla.gov.au/recentFlickrPhotos)
+  - Managed through Flickr
+  - Closing downs / Grand openings or Firsts
+  - Historic locations or equipment
 
 ---
 
 ## Lets do it!
 <hr />
 
-Official
-
-The Guardian Project
-
-<span class="fragment highlight-current-blue">MicroG (open-source implementation of G**gle Play Services)</span>
-
-Eutopia (Signal builds)
-
-I2P (anonymous network)
-
-<span class="fragment highlight-current-blue">IzzyOnDroid (350+ official binaries built by the original application developers)</span>
-
-<span class="fragment highlight-current-blue">PiLight (Free Hardware/Software home automation)</span>
-
-and more at: https://f-droid.org/wiki/page/Known_Repositories
+Trove: [https://trove.nla.gov.au](https://trove.nla.gov.au)
